@@ -5,7 +5,7 @@ This project analyzes sales data from a coffee shop, providing insights into sal
 
 ## Data Source
 
-Practice Data from InternPulse
+Practice Data from Augment AI
 
 ## Tools and Methodology
 
